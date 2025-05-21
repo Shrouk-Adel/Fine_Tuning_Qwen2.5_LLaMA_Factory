@@ -1,7 +1,7 @@
  # Fine_Tuning_Qwen2.5_LLaMA_Factory
 
 This project fine-tunes the `Qwen/Qwen2.5-1.5B-Instruct` large language model (LLM) using the LLaMA-Factory framework to enhance its capabilities for structured data extraction and translation tasks in Arabic. The project includes data processing, model fine-tuning, inference, and performance evaluation using vLLM for efficient serving and Locust for load testing. The Jupyter notebook (`LLM_Fine_Tuning.ipynb`) is the primary implementation, and this README provides a detailed walkthrough of each step.
-
+## Notebook on GoogleColab from [Fine_Tuning_qwen2.5](https://colab.research.google.com/drive/1QzYG9o56QMoPfeqdLFm012kJQMTNWC-w?usp=sharing)
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Prerequisites](#prerequisites)
